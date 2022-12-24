@@ -1,3 +1,7 @@
+const botoes = [...document.querySelectorAll("div")]
 
+botoes.map(( botao, index )=>{
+    
+})
 
-console.log('3'-'1')
+console.log(botoes)
